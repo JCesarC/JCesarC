@@ -96,8 +96,7 @@
       <div align="center">
     </p>
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JCesarC&theme=blue-green&layout=compact)](https://github.com/JCesarC/github-readme-stats)    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JCesarC&hide=php,blade&theme=blue-green&layout=compact)](https://github.com/JCesarC/github-readme-stats)    
                                                                                                                                             
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JCesarC&theme=blue-green)](https://github.com/JCesarC/github-readme-stats)
                                                                                                                                             
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JCesarC&theme=blue-green&layout=compact)](https://github.com/JCesarC/github-readme-stats)
