@@ -18,12 +18,6 @@
        src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
   </a>
 
-  <a href="https://www.facebook.com/juliocesar.cantun.79/">
-  <img align="center" 
-       alt="Grepper" 
-       width="22px" 
-       src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />
-  </a>
   
 <a href="https://stackoverflow.com/users/12381868/lunox?tab=profile">
   <img align="center" 
